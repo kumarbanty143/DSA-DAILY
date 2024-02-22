@@ -36,7 +36,7 @@ void binarySearch(vector<int> v, int target)
         cout << x << endl;
         x++;
     }
-    cout << "NO ELEMENT" << endl;
+    cout << "NO ELEMENT found" << endl;
 }
 
 int main()
